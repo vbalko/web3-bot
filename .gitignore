@@ -143,3 +143,5 @@ docs
 
 ### SQLite3 ###
 /sqlite3
+botConfig.json
+config.json
